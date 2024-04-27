@@ -1,0 +1,9 @@
+.idea
+__pycache__
+.DS_Store
+DatasetIndex/
+__pycache__/app.cpython-312.pyc
+node_modules/
+package-lock.json
+package.json
+tailwind.config.js
